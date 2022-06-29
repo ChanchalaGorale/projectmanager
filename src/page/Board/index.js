@@ -2,7 +2,7 @@ import React from "react";
 import "./style.css";
 
 function Board() {
-  return <div>Board</div>;
+  return <h1>Board</h1>;
 }
 
 export default Board;

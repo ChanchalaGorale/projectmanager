@@ -1,7 +1,7 @@
 import React from "react";
 
 function SprintMode() {
-  return <div>SprintMode</div>;
+  return <h1>SprintMode</h1>;
 }
 
 export default SprintMode;
